@@ -1,5 +1,7 @@
 # PyParam
 IMPORTANT INFORMATION:
+
+pyparam3.py is the current version
     
 Set the PATHS to ORCA and AMBER programs in script. The PyParam_2024 works with AmberTools24 and ORCA 5. It should work with ORCA 6 after in the next bug-fixed version (orca_vpot do not work properly).
     
